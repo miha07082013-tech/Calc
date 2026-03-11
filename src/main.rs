@@ -21,6 +21,8 @@ fn main() {
 
         println!("{} + {} = {}", num, num1, num + num1);
 
+        println!("ALL");
+
         
     }
 }
